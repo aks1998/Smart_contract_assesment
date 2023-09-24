@@ -22,5 +22,4 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it.
 
 ## Authors
-
-Naval_Coriss  
+Akshat Srivastava (Naval_coriss)
